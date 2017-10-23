@@ -1,0 +1,17 @@
+Package: rBMC
+Type: Package
+Title: Bayesian Model Combination
+Version: 1.0.0
+Authors@R: person("Yachen", "Yan", email = "yanyachen21@gmail.com", role = c("aut", "cre"))
+Author: Yachen Yan [aut, cre]
+Maintainer: Yachen Yan <yanyachen21@gmail.com>
+Description: Bayesian Model Combination for optimizing AUC.
+URL: http://github.com/yanyachen/rBMC
+BugReports: http://github.com/yanyachen/rBMC/issues
+Imports: stats, data.table, magrittr, foreach, gtools, ModelMetrics
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+NeedsCompilation: no
+Packaged: 2017-10-23 22:16:49 UTC; yyc
